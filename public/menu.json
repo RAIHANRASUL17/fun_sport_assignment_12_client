@@ -1,0 +1,128 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Mário Lemos",
+        "description": "Bangladeshi professional football club based in the Dhanmondi area of Dhaka, Bangladesh. The club currently competes in the Bangladesh Premier League, the top flight of Bangladeshi Football.",
+        "image": "https://i.ibb.co/7xDP25d/p1.jpg",
+        "email": "moh@dan.com",
+        "classNum": 2,
+        "className": "Football Academic",
+        "category": "instructor",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Salauddin Ahmed",
+        "description": "He was born in Rajapur, Khulna, and played in six One Day Internationals (ODIs) in 1997. He continued to play first-class cricket for Khulna Division until 2006.",
+        "image": "https://i.ibb.co/V265wmN/p2.jpg",
+        "email": "sala@uddin.com",
+        "classNum": 5,
+        "className": "Cricket Academic",
+        "category": "instructor",
+        "price": 23.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Du Feng",
+        "description": "Du Feng is a Chinese professional basketball coach and former player. He is the current head coach of China's national team and also head coach of his longtime club.",
+        "image": "https://i.ibb.co/5v9jqhs/p3.jpg",
+        "email": "du@feng.com",
+        "classNum": 5,
+        "className": "Basketball Academic",
+        "category": "instructor",
+        "price": 33.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Dmitry Dmitruk",
+        "description": "Boxing Federation of India (BFI) appointed veteran coach Dmitry Dmitruk as the Indian boxing team’s foreign coach for the next two years.",
+        "image": "https://i.ibb.co/QChzXvL/p4.jpg",
+        "email": "dmir@try.com",
+        "classNum": 7,
+        "className": "Boxing Academic",
+        "category": "instructor",
+        "price": 23
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Rock WWE",
+        "description": "A 10-time world champion, including the promotion's first of African-American descent, he is also a two-time Intercontinental Champion.",
+        "image": "https://i.ibb.co/H7Hmx8p/p5.jpg",
+        "email": "rock@wwe.com",
+        "classNum": 7,
+        "className": "Wrestling Academic",
+        "category": "instructor",
+        "price": 42
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Russ Rose",
+        "description": "Russell David Rose is an American author, professor and was the women's volleyball coach at Penn State University.",
+        "image": "https://i.ibb.co/bs9tK9B/p6.jpg",
+        "email": "rose@s.com",
+        "classNum": 9,
+        "className": "Volleyball Academic",
+        "category": "instructor",
+        "price": 22
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Football Academic Class",
+        "insName":"Mário Lemos",
+        "email": "moh@dan.com",
+        "image": "https://i.ibb.co/XJ83s62/football.jpg",
+        "seat" : 10,
+        "category": "class",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Cricket Academic Class",
+        "insName":"Saluddin Ahmad",
+        "email": "sala@uddin.com",
+        "image": "https://i.ibb.co/47ZhdZQ/cricket.jpg",
+        "seat" : 15,
+        "category": "class",
+        "price": 22.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Basketball Academic Class",
+        "insName":"Du Feng",
+        "email": "du@feng.com",
+        "image": "https://i.ibb.co/HB8CH0N/basketball.jpg",
+        "seat" : 9,
+        "category": "class",
+        "price": 22.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Boxing Academic Class",
+        "insName":"Dmitry Dmitruk",
+        "email": "dmir@try.com",
+        "image": "https://i.ibb.co/kKkqBqh/boxing.jpg",
+        "seat" : 12,
+        "category": "class",
+        "price": 22.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Wrestling Academic Class",
+        "insName":"Rock WWE",
+        "email": "rock@wwe.com",
+        "image": "https://i.ibb.co/j36gb7m/wrestling.jpg",
+        "seat" : 5,
+        "category": "class",
+        "price": 32.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "volleyball Academic Class",
+        "insName":"Russ Rose",
+        "email": "rose@s.com",
+        "image": "https://i.ibb.co/Lxk9VwF/volleyball.jpg",
+        "seat" : 25,
+        "category": "class",
+        "price": 7.5
+    }
+]
